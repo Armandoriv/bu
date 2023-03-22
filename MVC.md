@@ -26,3 +26,10 @@ D --Respuesta grafica--> A
 ```
 
 >**A modo de resumen:** Controller (C) es un intermediario que aplica las reglas de Modelo (M), avisando los cambios a Vista (V) y como resultado da un feedback al usuario en forma de eventos, cambios.
+
+|Model           |View                           |Controller                   |
+|----------------|-------------------------------|-----------------------------|
+|Define          |                               |                             |
+|Quotes          |                               |                             |
+|Dashes          |                               |                             |
+|
