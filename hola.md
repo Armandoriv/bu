@@ -12,6 +12,6 @@ Armando-> David: ¿donde venden los tacos mas buenos?
 David-> Armando: No hay tacos buenos en mty
 
 Toño-->Armando: Checking with John...
-Dvid->Toño: En efecto
+David->Toño: En efecto
 ```
 
