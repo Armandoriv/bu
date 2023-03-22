@@ -17,3 +17,12 @@ Este componente se encarga de mostrarle al usuario las pantallas, ventanas, pagi
 ## Controlador 
 
 Este componente se encarga de gestionar las instrucciones que se reciben, atenderlas y procesarlas. Por medio de el se comunican el modelo y la vista: solicitando los datos necesarios; manipulandolos para obtener resultados y entregandolos a vista para que se pueda mostrar
+
+```mermaid
+graph LR
+A((Usuario))--Peticion de datos--> B((Controlador))
+B --Transferencia de datos--> C(Modelo)
+C --> B
+B --Respuesta--> D{Vista}
+D --Respuesta grafica--> A
+```
