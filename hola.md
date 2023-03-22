@@ -8,10 +8,9 @@ se debe tener un codigo limpio para poder entender la organizacion de la misma
 sequenceDiagram
 Toño ->> Armando: Ya sabes md?
 Armando->>Toño: Estoy en eso
-Armando-> David: ¿donde venden los tacos mas buenos?
-David-> Armando: No hay tacos buenos en mty
+Armando->> David: ¿donde venden los tacos mas buenos?
+David->> Armando: No hay tacos buenos en mty
 
-Toño-->Armando: Checking with John...
 David->Toño: En efecto
 ```
 
