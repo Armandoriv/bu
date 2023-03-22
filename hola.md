@@ -14,11 +14,11 @@ David->> Armando: No hay tacos buenos en mty
 David->Toño: En efecto
 ```
 
-# 1 uno
-## 2 dos
-### 3 tres
+1. uno
+2. dos
+3. tres
 
-### - Tres
-## - Dos 
-# - uno
+- Tres
+- Dos 
+- uno
 
