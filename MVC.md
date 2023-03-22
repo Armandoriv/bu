@@ -1,4 +1,4 @@
-# Propuesta de arquitectura MMC
+# Propuesta de arquitectura MVC
 
 ## Resumen
 
