@@ -2,9 +2,7 @@
 
 ## Resumen
 
-La arquitecutra MVC se utiliza para separar el codigo de distintas respnsabilidades que estos tienen **Es un patron de diseño**
-
-Sus siglas coresponden a M (Model) V (Visual) y C (Controller)
+La arquitecutra MVC se utiliza para separar el codigo de distintas respnsabilidades que estos tienen **Es un patron de diseño** Sus siglas coresponden a M (Model) V (Visual) y C (Controller)
 
 ## Model
 
@@ -26,3 +24,5 @@ C --> B
 B --Respuesta--> D{Vista}
 D --Respuesta grafica--> A
 ```
+
+>**A modo de resumen:** Controller (C) es un intermediario que aplica las reglas de Modelo (M), avisando los cambios a Vista (V) y como resultado da un feedback al usuario en forma de eventos, cambios.
