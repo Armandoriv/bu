@@ -15,3 +15,10 @@ Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text d
 Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
 ```
+
+```mermaid
+sequenceDiagram
+Joe ->> rebe: hola rebe, cmo estas?
+rebe--> joe: hola joe, muy 
+
+```
