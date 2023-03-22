@@ -1,8 +1,7 @@
 # La importancia de un codigo limpio 
 
-se debe tener un codigo limpio para poder entender la organizacion de la misma
-
-> *Nota:* se pueden tener resultados no deseados
+se debe tener un codigo limpio para que pueda tener una escabilidad 
+> *Nota:* de no tener un codigo ordenado y limpio se te puede aparecer el diablo
 
 ```mermaid
 sequenceDiagram
