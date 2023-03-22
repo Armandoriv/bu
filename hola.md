@@ -1,7 +1,7 @@
 # La importancia de un codigo limpio 
 
 se debe tener un codigo limpio para que pueda tener una escalabilidad y se pueda replicar con más facilidad
-> *Nota:* de no tener un codigo ordenado y limpio se te puede aparecer el diablo
+> *Nota:* de no tener un codigo ordenado y limpio el diablo te puede jalar las patas
 
 ```mermaid
 sequenceDiagram
