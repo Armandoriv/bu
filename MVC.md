@@ -2,7 +2,7 @@
 
 ## Resumen
 
-La arquitecutra MVC se utiliza para separar el codigo de distintas respnsabilidades que estos tienen **Es un patron de diseño** Sus siglas coresponden a M (Model) V (Visual) y C (Controller)
+La arquitecutra MVC se utiliza para separar el codigo de distintas respnsabilidades que estos tienen. **Es un patron de diseño** Sus siglas coresponden a M (Model) V (Visual) y C (Controller)
 
 ## Model
 
